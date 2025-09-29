@@ -21,7 +21,7 @@ print(results)
 
 ## Status
 
-🚧 Under active development
+Under active development
 
 ## License
 
